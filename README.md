@@ -9,4 +9,5 @@ For more details about the concept of Encryption and the Application you can vis
 # Building from the source
 If you want to build the application from source :
 1.Get a clone or download the source from this repository  https://github.com/Sanduni-Fernando/Sample-java-Encryption-Application
+
 2.Open it from netbeans and run the program.
