@@ -8,6 +8,7 @@ If you want to just run the program, you can download AESEncryption.jar file.
 For more details about the concept of Encryption and the Application you can visit https://sgthetweetie.wordpress.com/2017/04/07/introduction-to-encryption-with-a-sample-java-encryption-application/
 # Building from the source
 If you want to build the application from source :
+
 1.Get a clone or download the source from this repository  https://github.com/Sanduni-Fernando/Sample-java-Encryption-Application
 
 2.Open it from netbeans and run the program.
